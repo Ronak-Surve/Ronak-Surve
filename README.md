@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-surve&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-surve" /> </p>
 
-- 🌱 I’m currently learning **ML and Deep Learning**
+- 🌱 I’m currently learning **Backend Development**
 
 - ⚡ Fun fact **I started as a frontend developer**
 
