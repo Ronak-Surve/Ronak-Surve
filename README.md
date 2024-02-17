@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-surve&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-surve" /> </p>
 
-- 🌱 I’m currently learning **JAVA Stack for Backend Development**
+- 🌱 I’m currently learning **JAVA** Stack for Backend Development
 
-- ⚡ I am interested to collaborate and contribute in **MERN Stack Projects**
+- ⚡ I am interested to collaborate and contribute in **MERN** Stack Projects
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
