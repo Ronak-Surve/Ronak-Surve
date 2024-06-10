@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronak Surve</h1>
 <h3 align="center">A Computer Engineering Student and AI/ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronak-surve&label=Profile%20views&color=0e75b6&style=flat" alt="ronak-surve" /> </p>
-
 - 🌱 I’m currently learning **JAVA** Stack for Backend Development
 
 - ⚡ I am interested to collaborate and contribute in **MERN** Stack Projects
