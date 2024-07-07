@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronak Surve</h1>
 <h3 align="center">A Computer Engineering Student and AI/ML Enthusiast</h3>
 
-- 🌱 I’m currently learning **JAVA** Stack for Backend Development
-
 - ⚡ I am interested to collaborate and contribute in **MERN** Stack Projects
 
 <p align="left">
